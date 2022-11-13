@@ -1,0 +1,30 @@
+body {
+    
+    margin: auto;
+    border: 5px solid rgb(117, 184, 30);
+    border-radius: 15px;
+    width: 30%;
+    padding: 15px;
+}
+h3 {
+    font-size: 25px;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+.dislikes {
+    background-color: antiquewhite;
+    font-style: normal;
+}
+#First {
+    background-color: rgb(21, 209, 162);
+    font-style: italic;
+}
+.Likes {
+    background-color: goldenrod;
+    font-style: italic;
+}
+#Second {
+    background-color: blueviolet;
+    font-style: normal;
+}
